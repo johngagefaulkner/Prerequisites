@@ -13,7 +13,7 @@ function Get-InstalledDotNetDesktopRuntimeVersions() {
 $locallyInstalledVersions = Get-InstalledDotNetDesktopRuntimeVersions
 
 foreach ($dotNetRuntime in $locallyInstalledVersions) {
-    Write-Host " • Installed: " -NoNewline
+    Write-Host " - Installed: " -NoNewline
     Write-Host $dotNetRuntime -ForegroundColor Green
 }
 
