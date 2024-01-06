@@ -1,4 +1,4 @@
-﻿$ProgressPreference = 'SilentlyContinue'
+$ProgressPreference = 'SilentlyContinue'
 $ErrorActionPreference = 'Stop'
 Clear-Host
 Write-Host "[ Get-InstalledDotNetDesktopRuntimeVersions.ps1 ]"
