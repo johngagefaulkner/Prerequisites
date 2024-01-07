@@ -1,0 +1,17 @@
+{
+    "Version": "2024-01-07.A",
+    "HealthCheck": {
+        "Directories": [
+            "%PROGRAMFILES%/WaferLauncher",
+            "%PROGRAMFILES%/WaferLauncher/Data",
+            "%PROGRAMFILES%/WaferLauncher/Logs",
+            "%PROGRAMFILES%/WaferLauncher/Temp"
+        ],
+        "Database": "%PROGRAMFILES%/WaferLauncher/Database.db"
+    },
+    "DefaultOAuthURLs": {
+        "Discord": "https://discord.com/api/oauth2/authorize?client_id=1121740515474423828\u0026redirect_uri=http%3A%2F%2Flocalhost%3A7175\u0026response_type=code\u0026scope=identify%20email%20connections%20guilds%20guilds.join",
+        "EpicGames": "https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token",
+        "WaferBot": "https://api.waferbot.com/waferlauncher/login"
+    }
+}
