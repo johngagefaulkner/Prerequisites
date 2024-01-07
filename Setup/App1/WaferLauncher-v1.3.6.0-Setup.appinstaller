@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <AppInstaller
   Version="1.3.9.0"
-  Uri="https://fortniteapi.dev/waferlauncher/setup.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
+  Uri="https://github.com/johngagefaulkner/Prerequisites/raw/main/Setup/App1/WaferLauncher-v1.3.6.0-Setup.appinstaller" xmlns="http://schemas.microsoft.com/appx/appinstaller/2018">
   <MainPackage
     Name="WaferLauncher"
     Publisher="CN=John Gage Faulkner, O=John Gage Faulkner, L=Barnesville, S=Georgia, C=US"
