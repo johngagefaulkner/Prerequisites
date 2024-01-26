@@ -1,0 +1,29 @@
+{
+    "Assets": {
+        "LoginImage": "https://i.imgur.com/b6BnqYL.png",
+        "MainBanner": "https://i.imgur.com/KdAIWAU.png"
+    },
+    "Discord": {
+        "DefaultOAuthUrl": "https://discord.com/api/oauth2/authorize?client_id=1121740515474423828\u0026redirect_uri=http%3A%2F%2Flocalhost%3A7175\u0026response_type=code\u0026scope=identify%20email%20connections%20guilds%20guilds.join",
+        "DefaultOAuthUrlBase64": "aHR0cHM6Ly9kaXNjb3JkLmNvbS9hcGkvb2F1dGgyL2F1dGhvcml6ZT9jbGllbnRfaWQ9MTEyMTc0MDUxNTQ3NDQyMzgyOCZyZWRpcmVjdF91cmk9aHR0cCUzQSUyRiUyRmxvY2FsaG9zdCUzQTcxNzUmcmVzcG9uc2VfdHlwZT1jb2RlJnNjb3BlPWlkZW50aWZ5JTIwZW1haWwlMjBjb25uZWN0aW9ucyUyMGd1aWxkcyUyMGd1aWxkcy5qb2lu"
+    },
+    "EpicGames": {
+        "DefaultOAuthUrl": "https://account-public-service-prod03.ol.epicgames.com/account/api/oauth/token"
+    },
+    "InitialSetup": {
+        "InitialSetupCompleteDataFile": "C:\\ProgramData\\WaferLauncher\\InitialSetupComplete.dat",
+        "IsInitialSetup": true,
+        "RequiredDirectories": [
+            "C:\\ProgramData\\WaferLauncher",
+            "C:\\ProgramData\\WaferLauncher\\Logs",
+            "C:\\ProgramData\\WaferLauncher\\Users",
+            "C:\\ProgramData\\WaferLauncher\\Cache",
+            "%AppData%\\WaferLauncher"
+        ]
+    },
+    "LastUpdated": "2023-11-22T04:00:55Z",
+    "Version": 1.1,
+    "WaferBot": {
+        "DefaultOAuthUrl": "https://api.waferbot.com/waferlauncher/login"
+    }
+}
