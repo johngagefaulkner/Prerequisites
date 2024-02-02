@@ -1,4 +1,4 @@
-# App 1 | Test App
+# DevTestApp
 
 ## Prerequisites
 
